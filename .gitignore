@@ -1,7 +1,7 @@
 data/cub200
 
-checkpoints/cub200_experiment_llama_lora_only
-checkpoints/cub200_experiment_llama_prompt_only
-checkpoints/cub200_experiment_llama_wo_human
-checkpoints/cub200_experiment_llama8
+checkpoints/cub200_experiment_llama_lora_only/phase1
+checkpoints/cub200_experiment_llama_prompt_only/phase1
+checkpoints/cub200_experiment_llama_wo_human/phase1
+checkpoints/cub200_experiment_llama8/phase1
 *.DS_Store
