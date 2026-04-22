@@ -2874,7 +2874,7 @@
     "face color and marking": 1.0,
     "throat color and marking": 1.0,
     "upper chest color and marking": 1.0,
-    "lower belly color and marking": 0.0,
+    "lower belly color and marking": 1.0,
     "upside tail color and marking": 0.0,
     "upside wing color and marking": 1.0,
     "feet color": 1.0
