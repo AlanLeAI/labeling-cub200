@@ -3252,9 +3252,9 @@
     "beak color and marking": 1.0,
     "eye color and marking": 1.0,
     "face color and marking": 1.0,
-    "throat color and marking": 0.7,
-    "upper chest color and marking": 0.7,
-    "lower belly color and marking": 0.7,
+    "throat color and marking": 1,
+    "upper chest color and marking": 1,
+    "lower belly color and marking": 1,
     "upside tail color and marking": 1.0,
     "upside wing color and marking": 1.0,
     "feet color": 0.0
