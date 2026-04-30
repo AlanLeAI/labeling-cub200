@@ -1,0 +1,3626 @@
+[
+  {
+    "image": "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0011_39207.jpg",
+    "concepts": {
+      "body shape": [
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and plump body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and triangular beak",
+        "short and conical beak",
+        "short, thick and conical beak",
+        "short, thin and triangular beak",
+        "short and triangular beak"
+      ],
+      "neck shape": [
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "short and rounded tail",
+        "long and forked tail",
+        "long and notched tail",
+        "short and rounded tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "small and clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "black crown with white stripe",
+        "black crown with white stripe",
+        "black crown",
+        "black crown with white stripe",
+        "black crown with white stripe"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "black beak",
+        "black beak",
+        "black beak with white tip",
+        "black beak with white tip"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring and black pupil",
+        "black eyes with white ring"
+      ],
+      "face color and marking": [
+        "black face with white stripe",
+        "black face",
+        "black and white face",
+        "black face with white cheek and white throat",
+        "black face with white stripe"
+      ],
+      "throat color and marking": [
+        "black throat",
+        "white throat",
+        "white throat",
+        "white throat",
+        "black throat with white stripe"
+      ],
+      "upper chest color and marking": [
+        "black chest",
+        "black chest with white spot",
+        "black chest",
+        "black chest",
+        "black upper chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "white belly",
+        "white belly",
+        "white belly",
+        "white belly with red patch"
+      ],
+      "upside tail color and marking": [
+        "black tail with white tip",
+        "black tail with white tip",
+        "black tail with white tips",
+        "black tail with white tip",
+        "black tail with white tip"
+      ],
+      "upside wing color and marking": [
+        "black wings with white tips",
+        "black wings with white bars",
+        "black wings with white bars",
+        "black wings with white tips",
+        "black wings with white bars"
+      ],
+      "feet color": [
+        "black feet",
+        "gray feet",
+        "reddish-brown feet",
+        "gray feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.5077118346747719,
+      "crest shape": -0.0,
+      "beak shape": 0.6729133235322817,
+      "neck shape": -0.0,
+      "wing shape": 2.220446049250313e-16,
+      "tail shape": 1.057141869834997,
+      "flight feather shape": -0.0,
+      "feet shape": -0.0,
+      "crown color and marking": -0.0,
+      "beak color and marking": -0.0,
+      "eye color and marking": -0.0,
+      "face color and marking": -0.0,
+      "throat color and marking": 0.6640635788633573,
+      "upper chest color and marking": -0.0,
+      "lower belly color and marking": 1.3354638633107492,
+      "upside tail color and marking": -2.220446049250313e-16,
+      "upside wing color and marking": -0.0,
+      "feet color": 1.0592954074381598
+    }
+  },
+  {
+    "image": "171.Myrtle_Warbler/Myrtle_Warbler_0036_166833.jpg",
+    "concepts": {
+      "body shape": [
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and plump body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "long and pointed crest"
+      ],
+      "beak shape": [
+        "short and straight beak",
+        "short, thin and conical beak",
+        "short, thick and conical beak",
+        "short, thin and straight beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "short and rounded tail",
+        "long and forked tail",
+        "long and notched tail",
+        "short and rounded tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "small and clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "black crown with yellow stripe",
+        "black crown",
+        "yellowish-gray crown",
+        "black crown with white stripe",
+        "yellow crown with black stripe"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "black beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "black beak with yellow tip"
+      ],
+      "eye color and marking": [
+        "black eyes with white ring",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring and black pupil",
+        "black eyes with white ring"
+      ],
+      "face color and marking": [
+        "black face with white stripe",
+        "black face",
+        "black and yellow face",
+        "white face with black stripe",
+        "yellow face with black stripe"
+      ],
+      "throat color and marking": [
+        "white throat",
+        "white throat",
+        "grayish throat with some yellowish",
+        "white throat",
+        "yellow throat"
+      ],
+      "upper chest color and marking": [
+        "black chest with white stripe",
+        "white chest",
+        "yellowish-gray chest",
+        "black chest",
+        "yellow chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "white belly",
+        "yellowish-white belly",
+        "yellow belly",
+        "yellow belly"
+      ],
+      "upside tail color and marking": [
+        "black tail with yellow stripe",
+        "black tail with white tip",
+        "black tail with white tips",
+        "black tail with yellow tip",
+        "yellow tail with black tip"
+      ],
+      "upside wing color and marking": [
+        "black wings with white stripe",
+        "black wings with white bars",
+        "black wings with white bars",
+        "black wings with white stripe",
+        "yellow wings with black tips"
+      ],
+      "feet color": [
+        "black feet",
+        "black feet",
+        "reddish-brown feet",
+        "black feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.4967834254094508,
+      "crest shape": 0.47494996721172045,
+      "beak shape": 0.9373173747765151,
+      "neck shape": -0.0,
+      "wing shape": -0.0,
+      "tail shape": 1.0572273342379457,
+      "flight feather shape": -0.0,
+      "feet shape": -0.0,
+      "crown color and marking": 1.3311732561634901,
+      "beak color and marking": 0.5040261749609964,
+      "eye color and marking": -0.0,
+      "face color and marking": 1.0430352754719538,
+      "throat color and marking": 0.9565354294426243,
+      "upper chest color and marking": 1.0423242929298915,
+      "lower belly color and marking": 1.05556528248654,
+      "upside tail color and marking": 1.0597653494272348,
+      "upside wing color and marking": 0.49547048472948463,
+      "feet color": 0.5004024235381879
+    }
+  },
+  {
+    "image": "166.Golden_winged_Warbler/Golden_Winged_Warbler_0069_164456.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and slender body",
+        "small and slender body",
+        "small and slender body",
+        "small and slender body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and pointed beak",
+        "short, thin and pointed beak",
+        "short and conical beak",
+        "small and short beak",
+        "short and triangular beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "long neck",
+        "short neck blending into the body",
+        "long and slender neck",
+        "long neck"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "long and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "long and narrow wings"
+      ],
+      "tail shape": [
+        "long and slender tail",
+        "long and pointed tail",
+        "long and forked tail",
+        "short and rounded tail",
+        "long and slender tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "small feet",
+        "long and slender feet",
+        "clawed feet",
+        "small and slender feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "yellow crown with black stripe",
+        "greenish-yellow crown",
+        "greenish-yellow crown",
+        "yellow crown",
+        "yellow crown with black stripe"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "dark beak",
+        "dark brown beak",
+        "black beak",
+        "black beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes"
+      ],
+      "face color and marking": [
+        "yellow face with black stripe",
+        "black and yellow face",
+        "yellow face with black stripe",
+        "white face",
+        "yellow face with black stripe"
+      ],
+      "throat color and marking": [
+        "yellow throat",
+        "greenish-yellow throat",
+        "yellow throat",
+        "white throat",
+        "yellow throat"
+      ],
+      "upper chest color and marking": [
+        "yellow chest",
+        "greenish-yellow chest",
+        "greenish-yellow chest",
+        "yellow chest",
+        "yellow upper chest"
+      ],
+      "lower belly color and marking": [
+        "yellow belly",
+        "greenish-yellow belly",
+        "white belly",
+        "yellow belly",
+        "yellow lower belly"
+      ],
+      "upside tail color and marking": [
+        "yellow tail with black tip",
+        "greenish-yellow tail",
+        "greenish-yellow tail",
+        "yellow tail with black tip",
+        "yellow tail with black tip"
+      ],
+      "upside wing color and marking": [
+        "yellow wings with black tip",
+        "greenish-yellow wings",
+        "greenish-yellow wings",
+        "green wings",
+        "yellow wings with black tips"
+      ],
+      "feet color": [
+        "black feet",
+        "dark feet",
+        "dark brown feet",
+        "black feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": -0.0,
+      "crest shape": -0.0,
+      "beak shape": 0.9496386865187896,
+      "neck shape": 0.48836705213415954,
+      "wing shape": 0.6712356537715806,
+      "tail shape": 1.3389821215432298,
+      "flight feather shape": -0.0,
+      "feet shape": 1.0601835349017268,
+      "crown color and marking": 0.6687814426875005,
+      "beak color and marking": 0.464632505919221,
+      "eye color and marking": -0.0,
+      "face color and marking": 0.5096314752002991,
+      "throat color and marking": 0.5020809213503469,
+      "upper chest color and marking": 2.220446049250313e-16,
+      "lower belly color and marking": 0.5082398864286146,
+      "upside tail color and marking": -0.0,
+      "upside wing color and marking": 0.6721131914050792,
+      "feet color": 0.4817408796418149
+    }
+  },
+  {
+    "image": "075.Green_Jay/Green_Jay_0121_65564.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and compact body",
+        "small and compact body",
+        "small and slender body",
+        "small and plump body"
+      ],
+      "crest shape": [
+        "no crest",
+        "blue crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and straight beak",
+        "short, thick and conical beak",
+        "short, thick and conical beak",
+        "short, thin and straight beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "long and slender neck",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "long and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "long, pointed and slightly rounded tail",
+        "long and forked tail",
+        "long and notched tail",
+        "long, pointed and slightly rounded tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "long and slender feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "blue crown with black stripe",
+        "blue crown",
+        "blue crown",
+        "blue crown",
+        "blue crown"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "black beak",
+        "black beak",
+        "black beak",
+        "black beak with blue tip"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring and black pupil",
+        "black eyes with white ring and black pupil"
+      ],
+      "face color and marking": [
+        "black face with blue stripe",
+        "black face",
+        "black face with white stripe",
+        "black face with blue stripe",
+        "black face with white stripe"
+      ],
+      "throat color and marking": [
+        "black throat",
+        "black throat",
+        "white throat",
+        "black throat",
+        "black throat"
+      ],
+      "upper chest color and marking": [
+        "green upper chest",
+        "green chest",
+        "blue chest",
+        "black chest",
+        "green upper chest"
+      ],
+      "lower belly color and marking": [
+        "yellow belly",
+        "green belly",
+        "greenish belly",
+        "green belly",
+        "yellow belly"
+      ],
+      "upside tail color and marking": [
+        "blue tail with black tip",
+        "blue tail",
+        "blue tail",
+        "blue tail with black tip",
+        "blue tail with black tip"
+      ],
+      "upside wing color and marking": [
+        "green wings",
+        "green wings",
+        "greenish wings",
+        "green wings",
+        "green wings with blue tips"
+      ],
+      "feet color": [
+        "black feet",
+        "black feet",
+        "black feet",
+        "black feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.5039631288088768,
+      "crest shape": 0.4910985601059332,
+      "beak shape": 0.6743601201577147,
+      "neck shape": 0.672534388542599,
+      "wing shape": 0.4950675113021394,
+      "tail shape": 0.9613000490010823,
+      "flight feather shape": -0.0,
+      "feet shape": 0.48611279473436386,
+      "crown color and marking": -0.0,
+      "beak color and marking": -2.220446049250313e-16,
+      "eye color and marking": -0.0,
+      "face color and marking": 0.6600857637352036,
+      "throat color and marking": 0.49407217891661365,
+      "upper chest color and marking": 0.9379560960361224,
+      "lower belly color and marking": 1.0613743834314702,
+      "upside tail color and marking": -0.0,
+      "upside wing color and marking": -0.0,
+      "feet color": -0.0
+    }
+  },
+  {
+    "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0047_796064.jpg",
+    "concepts": {
+      "body shape": [
+        "medium and plump body",
+        "small and compact body",
+        "small and compact body",
+        "medium and plump body",
+        "small and slender body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and straight beak",
+        "short, thick and conical beak",
+        "short and conical beak",
+        "short, thick and straight beak",
+        "long and pointed beak"
+      ],
+      "neck shape": [
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "long neck blending into the body"
+      ],
+      "wing shape": [
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "long and narrow wings"
+      ],
+      "tail shape": [
+        "long, pointed and slightly rounded tail",
+        "long and forked tail",
+        "long and forked tail",
+        "long, pointed and slightly rounded tail",
+        "long and pointed tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "long and slender feet"
+      ],
+      "crown color and marking": [
+        "brown crown",
+        "brownish-gray crown",
+        "gray crown",
+        "brown crown with white stripe",
+        "gray crown with white stripe"
+      ],
+      "beak color and marking": [
+        "pale gray beak",
+        "pale brownish-gray beak",
+        "pale brownish-gray beak",
+        "yellow beak with black tip",
+        "gray beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring and black pupil",
+        "black eyes with white ring"
+      ],
+      "face color and marking": [
+        "pale brown face",
+        "pale brown face",
+        "pale brown face",
+        "white face",
+        "gray face"
+      ],
+      "throat color and marking": [
+        "pale brown throat",
+        "pale brown throat",
+        "pale brown throat",
+        "white throat",
+        "gray throat"
+      ],
+      "upper chest color and marking": [
+        "pale brown chest",
+        "pale brown chest",
+        "pale brown chest",
+        "brown chest",
+        "gray chest"
+      ],
+      "lower belly color and marking": [
+        "pale brown belly",
+        "pale brown belly",
+        "pale brown belly",
+        "white belly",
+        "gray belly"
+      ],
+      "upside tail color and marking": [
+        "brown tail",
+        "brownish tail",
+        "brownish tail",
+        "brown tail with white tip",
+        "gray tail with white tip"
+      ],
+      "upside wing color and marking": [
+        "brown wings",
+        "brownish wings",
+        "brownish wings",
+        "brown wings with white tips",
+        "gray wings with white tips"
+      ],
+      "feet color": [
+        "dark gray feet",
+        "not clearly visible feet",
+        "not clearly visible feet",
+        "pink feet",
+        "gray feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.67696464755578,
+      "crest shape": -0.0,
+      "beak shape": 1.0377859889668009,
+      "neck shape": 0.49077056641474587,
+      "wing shape": 0.5004024235381879,
+      "tail shape": 0.6688290775563503,
+      "flight feather shape": -0.0,
+      "feet shape": 0.49784239912292366,
+      "crown color and marking": 0.6767147640978749,
+      "beak color and marking": 0.4847879893445883,
+      "eye color and marking": 1.1102230246251564e-16,
+      "face color and marking": 0.9495834272226078,
+      "throat color and marking": 0.5004024235381879,
+      "upper chest color and marking": -0.0,
+      "lower belly color and marking": 0.9502705392332345,
+      "upside tail color and marking": 0.502268299177276,
+      "upside wing color and marking": 0.4938414667372899,
+      "feet color": 1.0240520456420954
+    }
+  },
+  {
+    "image": "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0032_61177.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and slender body",
+        "small and slender body",
+        "small and slender body",
+        "small and slender body"
+      ],
+      "crest shape": [
+        "long and pointed crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "long and forked crest"
+      ],
+      "beak shape": [
+        "long and thin beak",
+        "long and slender beak",
+        "long and thin beak",
+        "long, thin and slightly curved beak",
+        "long and slender beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "long neck",
+        "long neck blending into the body",
+        "long and slender neck",
+        "long neck blending into the body"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "long and narrow wings",
+        "long and narrow wings",
+        "long and narrow wings",
+        "long and narrow wings"
+      ],
+      "tail shape": [
+        "long and pointed tail",
+        "long and forked tail",
+        "long and forked tail",
+        "long, pointed and slightly forked tail",
+        "long and forked tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "long and slender feet",
+        "long and slender feet",
+        "long and slender feet",
+        "long and slender feet",
+        "long and slender feet"
+      ],
+      "crown color and marking": [
+        "black crown",
+        "black crown",
+        "black crown with white stripe",
+        "black crown",
+        "black crown"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "black beak",
+        "dark gray beak",
+        "black beak",
+        "black beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring",
+        "black eyes with white ring"
+      ],
+      "face color and marking": [
+        "black face",
+        "black face",
+        "black face with white stripe",
+        "black face",
+        "black face"
+      ],
+      "throat color and marking": [
+        "black throat",
+        "black throat",
+        "white throat",
+        "black throat",
+        "black throat"
+      ],
+      "upper chest color and marking": [
+        "black chest",
+        "black chest",
+        "white chest",
+        "black upper chest",
+        "black chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "white belly",
+        "white belly",
+        "white belly",
+        "white belly"
+      ],
+      "upside tail color and marking": [
+        "black tail",
+        "black tail",
+        "black tail with white tip",
+        "black tail with white tip",
+        "black tail with white tip"
+      ],
+      "upside wing color and marking": [
+        "black wings",
+        "black wings",
+        "black wings with white bars",
+        "black wings with white tips",
+        "black wings with white tips"
+      ],
+      "feet color": [
+        "black feet",
+        "black feet",
+        "dark gray feet",
+        "black feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": -0.0,
+      "crest shape": 0.9224736893435084,
+      "beak shape": -2.220446049250313e-16,
+      "neck shape": 2.220446049250313e-16,
+      "wing shape": -0.0,
+      "tail shape": 0.6648285821127708,
+      "flight feather shape": 1.1102230246251564e-16,
+      "feet shape": -0.0,
+      "crown color and marking": -2.220446049250313e-16,
+      "beak color and marking": -2.220446049250313e-16,
+      "eye color and marking": -0.0,
+      "face color and marking": -0.0,
+      "throat color and marking": 0.49536027826282003,
+      "upper chest color and marking": 0.49994673853526594,
+      "lower belly color and marking": 1.6090167194032257,
+      "upside tail color and marking": -0.0,
+      "upside wing color and marking": 2.220446049250313e-16,
+      "feet color": -0.0
+    }
+  },
+  {
+    "image": "143.Caspian_Tern/Caspian_Tern_0049_145755.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and slender body",
+        "small and slender body",
+        "small and slender body",
+        "small and slender body"
+      ],
+      "crest shape": [
+        "black and spiky crest",
+        "black crest",
+        "black crest with white tips",
+        "black crest",
+        "black crest with white base"
+      ],
+      "beak shape": [
+        "long and thin beak",
+        "short and conical beak",
+        "long and thin beak",
+        "short, thin and straight beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "short neck blending into the body",
+        "long neck",
+        "long and slender neck",
+        "long and slender neck"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "short and narrow wings",
+        "long and narrow wings",
+        "long and narrow wings",
+        "long and narrow wings"
+      ],
+      "tail shape": [
+        "long and pointed tail",
+        "long and forked tail",
+        "long and forked tail",
+        "long, pointed and slightly rounded tail",
+        "long and forked tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "long and slender feet",
+        "long and slender feet",
+        "long and slender feet",
+        "long and slender feet",
+        "long and slender feet"
+      ],
+      "crown color and marking": [
+        "black crown",
+        "black crown with black stripe",
+        "black crown with white tips",
+        "black crown",
+        "black crown with white stripe"
+      ],
+      "beak color and marking": [
+        "orange beak",
+        "orange beak",
+        "orange beak with black tip",
+        "orange beak",
+        "orange beak"
+      ],
+      "eye color and marking": [
+        "black eyes with yellow ring",
+        "black eyes",
+        "black eyes",
+        "black eyes with yellow ring",
+        "black eyes with white ring"
+      ],
+      "face color and marking": [
+        "white face",
+        "black face",
+        "white face with black stripe",
+        "white face with black stripe",
+        "white face with black stripe"
+      ],
+      "throat color and marking": [
+        "white throat",
+        "white throat",
+        "white throat",
+        "white throat",
+        "white throat"
+      ],
+      "upper chest color and marking": [
+        "white chest",
+        "white chest",
+        "white chest",
+        "white chest",
+        "white chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "white belly",
+        "white belly",
+        "white belly",
+        "white belly"
+      ],
+      "upside tail color and marking": [
+        "white tail with black tip",
+        "white tail with black tip",
+        "white tail with black tip",
+        "black tail with white tip",
+        "white tail with black tip"
+      ],
+      "upside wing color and marking": [
+        "white wings with gray tips",
+        "white wings with black tips",
+        "white wings with black tips",
+        "white wings with black tips",
+        "white wings with black tips"
+      ],
+      "feet color": [
+        "black feet",
+        "black feet",
+        "black feet",
+        "black feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": -2.220446049250313e-16,
+      "crest shape": 0.6561522784352036,
+      "beak shape": 1.051178911177033,
+      "neck shape": 0.49453327156808446,
+      "wing shape": 0.48939131945918746,
+      "tail shape": 0.6700188594167382,
+      "flight feather shape": -0.0,
+      "feet shape": -0.0,
+      "crown color and marking": -0.0,
+      "beak color and marking": 1.1102230246251564e-16,
+      "eye color and marking": 0.49871927391258986,
+      "face color and marking": 0.5027952165201452,
+      "throat color and marking": -0.0,
+      "upper chest color and marking": -0.0,
+      "lower belly color and marking": 1.6094379124341005,
+      "upside tail color and marking": 0.48422710931410384,
+      "upside wing color and marking": 0.4981916948352338,
+      "feet color": -2.220446049250313e-16
+    }
+  },
+  {
+    "image": "054.Blue_Grosbeak/Blue_Grosbeak_0079_36656.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and compact body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and triangular beak",
+        "short and conical beak",
+        "short, thick and conical beak",
+        "short, thin and slightly curved beak",
+        "short and conical beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and rounded wings"
+      ],
+      "tail shape": [
+        "long and pointed tail",
+        "long and forked tail",
+        "long and notched tail",
+        "short and rounded tail",
+        "short and rounded tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "small and slender feet",
+        "clawed feet",
+        "clawed feet",
+        "small feet",
+        "short and stout feet"
+      ],
+      "crown color and marking": [
+        "blue crown",
+        "blue crown",
+        "blue crown",
+        "blue crown",
+        "blue crown with black stripe"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "black beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "black beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring and black pupil",
+        "black eyes with white ring"
+      ],
+      "face color and marking": [
+        "blue face",
+        "black face",
+        "black and yellow face",
+        "blue face",
+        "blue face"
+      ],
+      "throat color and marking": [
+        "blue throat",
+        "black throat",
+        "grayish throat with some yellowish",
+        "blue throat",
+        "blue throat"
+      ],
+      "upper chest color and marking": [
+        "blue chest",
+        "blue chest",
+        "yellowish-gray chest",
+        "blue chest",
+        "blue chest"
+      ],
+      "lower belly color and marking": [
+        "blue belly",
+        "blue belly",
+        "yellowish-white belly",
+        "blue belly",
+        "blue belly"
+      ],
+      "upside tail color and marking": [
+        "blue tail",
+        "blue tail",
+        "black tail with white tips",
+        "blue tail",
+        "blue tail with black tip"
+      ],
+      "upside wing color and marking": [
+        "blue wings",
+        "blue wings",
+        "black wings with white bars",
+        "blue wings",
+        "blue wings with black tip"
+      ],
+      "feet color": [
+        "black feet",
+        "black feet",
+        "reddish-brown feet",
+        "black feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": -0.0,
+      "crest shape": -0.0,
+      "beak shape": 0.9497087476526674,
+      "neck shape": 0.5004024235381879,
+      "wing shape": 0.9467754331081808,
+      "tail shape": 1.0404981695551965,
+      "flight feather shape": -0.0,
+      "feet shape": 1.0528964848631626,
+      "crown color and marking": -0.0,
+      "beak color and marking": 0.4955129861384739,
+      "eye color and marking": -0.0,
+      "face color and marking": 0.6721312179136141,
+      "throat color and marking": 0.9391296683679169,
+      "upper chest color and marking": 0.5017617496957227,
+      "lower belly color and marking": 1.6094379124341005,
+      "upside tail color and marking": 0.5004024235381879,
+      "upside wing color and marking": 0.5055720267656955,
+      "feet color": 0.5004024235381879
+    }
+  },
+  {
+    "image": "196.House_Wren/House_Wren_0085_187723.jpg",
+    "concepts": {
+      "body shape": [
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and plump body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and triangular beak",
+        "short, thick and conical beak",
+        "short, thick and conical beak",
+        "short and triangular beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "short and rounded wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "short and rounded tail",
+        "long and notched tail",
+        "long and notched tail",
+        "short and rounded tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "small and clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "brown crown",
+        "yellowish-gray crown",
+        "yellowish-gray crown",
+        "brown crown with black stripe",
+        "pale gray and rusty-brown crown"
+      ],
+      "beak color and marking": [
+        "gray beak",
+        "slightly duskier upper and overall orange beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "gray and blackish beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with black mask"
+      ],
+      "face color and marking": [
+        "brown face",
+        "black and yellow face",
+        "black and yellow face",
+        "brown face",
+        "rusty-brown face with black mask"
+      ],
+      "throat color and marking": [
+        "brown throat",
+        "grayish throat with some yellowish",
+        "grayish throat with some yellowish",
+        "brown throat",
+        "grayish and black throat"
+      ],
+      "upper chest color and marking": [
+        "brown chest",
+        "yellowish-gray chest",
+        "yellowish-gray chest",
+        "brown chest",
+        "pale gray chest"
+      ],
+      "lower belly color and marking": [
+        "brown belly",
+        "yellowish-white belly",
+        "yellowish-white belly",
+        "brown belly",
+        "pale gray belly"
+      ],
+      "upside tail color and marking": [
+        "brown tail",
+        "black tail with white tips",
+        "black tail with white tips",
+        "brown tail",
+        "gray tail with black subterminal bar and rusty tip"
+      ],
+      "upside wing color and marking": [
+        "brown wings",
+        "black wings with white bars",
+        "black wings with white bars",
+        "brown wings",
+        "gray wings with white bars"
+      ],
+      "feet color": [
+        "gray feet",
+        "reddish-brown feet",
+        "reddish-brown feet",
+        "dark gray feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.5036482218427409,
+      "crest shape": -0.0,
+      "beak shape": 1.058877375278184,
+      "neck shape": -0.0,
+      "wing shape": 0.47648880813571637,
+      "tail shape": 1.0549201679861442,
+      "flight feather shape": -0.0,
+      "feet shape": -0.0,
+      "crown color and marking": 0.6749345672819806,
+      "beak color and marking": 1.0530835907442824,
+      "eye color and marking": -0.0,
+      "face color and marking": 0.6731937192552919,
+      "throat color and marking": 1.0549201679861442,
+      "upper chest color and marking": 0.6730116670092563,
+      "lower belly color and marking": 0.6730116670092563,
+      "upside tail color and marking": 1.0549201679861442,
+      "upside wing color and marking": 1.0549201679861442,
+      "feet color": 1.0562559898954516
+    }
+  },
+  {
+    "image": "154.Red_eyed_Vireo/Red_Eyed_Vireo_0056_156968.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and compact body",
+        "small and compact body",
+        "small and slender body",
+        "small and slender body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and straight beak",
+        "short, thin and pointed beak",
+        "short, thick and conical beak",
+        "small, thin and straight beak",
+        "short and triangular beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "long and slender neck",
+        "long neck blending into the body"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "long and narrow wings"
+      ],
+      "tail shape": [
+        "long and pointed tail",
+        "long and forked tail",
+        "long and notched tail",
+        "short and rounded tail",
+        "long and forked tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "small and clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "brown crown",
+        "brown crown",
+        "yellowish-gray crown",
+        "black crown with white stripe",
+        "brown crown with dark streaks"
+      ],
+      "beak color and marking": [
+        "grayish-black beak",
+        "dark brown beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "dark gray beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring and black pupil"
+      ],
+      "face color and marking": [
+        "pale brown face",
+        "brown face",
+        "black and yellow face",
+        "black face with yellow stripe",
+        "brown face with dark streaks"
+      ],
+      "throat color and marking": [
+        "pale brown throat",
+        "brown throat",
+        "grayish throat with some yellowish",
+        "black throat",
+        "pale brown throat"
+      ],
+      "upper chest color and marking": [
+        "pale brown chest",
+        "brown chest",
+        "yellowish-gray chest",
+        "black chest",
+        "pale brown chest"
+      ],
+      "lower belly color and marking": [
+        "pale brown belly",
+        "brown belly",
+        "yellowish-white belly",
+        "white belly",
+        "pale brown belly"
+      ],
+      "upside tail color and marking": [
+        "brown tail",
+        "brown tail",
+        "black tail with white tips",
+        "black tail with white tip",
+        "brown tail with dark streaks"
+      ],
+      "upside wing color and marking": [
+        "brown wings",
+        "brown wings",
+        "black wings with white bars",
+        "black wings with white tips",
+        "brown wings with dark streaks"
+      ],
+      "feet color": [
+        "gray feet",
+        "brown feet",
+        "reddish-brown feet",
+        "black feet",
+        "gray feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 1.1102230246251564e-16,
+      "crest shape": -0.0,
+      "beak shape": 0.964784661802456,
+      "neck shape": 0.6751281713439985,
+      "wing shape": 0.6760980179239247,
+      "tail shape": 1.0495889724175433,
+      "flight feather shape": -0.0,
+      "feet shape": -0.0,
+      "crown color and marking": 0.9483867160973161,
+      "beak color and marking": 0.9716877454096402,
+      "eye color and marking": 1.1102230246251564e-16,
+      "face color and marking": 1.0592252596363427,
+      "throat color and marking": 0.4819688042451136,
+      "upper chest color and marking": 0.48448180270894337,
+      "lower belly color and marking": 0.674462169066802,
+      "upside tail color and marking": 0.6731826515172175,
+      "upside wing color and marking": 0.67231043257526,
+      "feet color": 1.05873306876718
+    }
+  },
+  {
+    "image": "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0031_26318.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and compact body",
+        "small and compact body",
+        "small and slender body",
+        "small and slender body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "small and short beak",
+        "short, thick and conical beak",
+        "short, thick and conical beak",
+        "small, thin and slightly curved beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "long and slender neck",
+        "long neck"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "long and slender tail",
+        "long and notched tail",
+        "long and notched tail",
+        "short and rounded tail",
+        "long and forked tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "small and slender feet",
+        "clawed feet",
+        "clawed feet",
+        "small and slender feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "brown crown",
+        "yellowish-gray crown",
+        "yellowish-gray crown",
+        "brown crown",
+        "brown crown with white stripe"
+      ],
+      "beak color and marking": [
+        "gray beak",
+        "slightly duskier upper and overall orange beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "black beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring",
+        "black eyes with white ring and black pupil"
+      ],
+      "face color and marking": [
+        "brown face",
+        "black and yellow face",
+        "black and yellow face",
+        "white face",
+        "brown face"
+      ],
+      "throat color and marking": [
+        "brown throat",
+        "grayish throat with some yellowish",
+        "grayish throat with some yellowish",
+        "white throat",
+        "white throat"
+      ],
+      "upper chest color and marking": [
+        "brown chest",
+        "yellowish-gray chest",
+        "yellowish-gray chest",
+        "white chest",
+        "brown chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "yellowish-white belly",
+        "yellowish-white belly",
+        "white belly",
+        "white belly"
+      ],
+      "upside tail color and marking": [
+        "brown tail",
+        "black tail with white tips",
+        "black tail with white tips",
+        "brown tail with white tip",
+        "brown tail with white tip"
+      ],
+      "upside wing color and marking": [
+        "brown wings",
+        "black wings with white bars",
+        "black wings with white bars",
+        "brown wings with white tips",
+        "brown wings with white bars"
+      ],
+      "feet color": [
+        "gray feet",
+        "reddish-brown feet",
+        "reddish-brown feet",
+        "black feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": -2.220446049250313e-16,
+      "crest shape": 1.1102230246251564e-16,
+      "beak shape": 1.0300395526273018,
+      "neck shape": 0.6737876250647242,
+      "wing shape": 0.5006025026202647,
+      "tail shape": 0.9445598571378337,
+      "flight feather shape": -0.0,
+      "feet shape": 0.6711282438278089,
+      "crown color and marking": 0.6730497393567196,
+      "beak color and marking": 1.0415482006229142,
+      "eye color and marking": -2.220446049250313e-16,
+      "face color and marking": 1.0426903035497093,
+      "throat color and marking": 1.055406785403287,
+      "upper chest color and marking": 1.0533316633663956,
+      "lower belly color and marking": 0.9509557044850561,
+      "upside tail color and marking": 0.6736195133238504,
+      "upside wing color and marking": 0.6748851369480446,
+      "feet color": 1.0538643272247061
+    }
+  },
+  {
+    "image": "132.White_crowned_Sparrow/White_Crowned_Sparrow_0129_127860.jpg",
+    "concepts": {
+      "body shape": [
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and plump body",
+        "small and plump body"
+      ],
+      "crest shape": [
+        "black and white striped crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and triangular beak",
+        "short, thick and conical beak",
+        "short, thick and conical beak",
+        "short, thin and straight beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "short and rounded tail",
+        "long and notched tail",
+        "long and notched tail",
+        "long, pointed and slightly rounded tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "small and clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "black and white crown",
+        "yellowish-gray crown",
+        "white crown with black stripe",
+        "white crown with black stripe",
+        "white crown with black stripe"
+      ],
+      "beak color and marking": [
+        "yellow beak",
+        "slightly duskier upper and overall orange beak",
+        "orange beak",
+        "yellow beak",
+        "yellow beak with black tip"
+      ],
+      "eye color and marking": [
+        "black eyes with white ring",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring and yellow ring",
+        "black eyes with white ring and black pupil"
+      ],
+      "face color and marking": [
+        "black face with white stripe",
+        "black and yellow face",
+        "black and white face",
+        "white face with black stripe",
+        "white face with black stripe"
+      ],
+      "throat color and marking": [
+        "white throat",
+        "grayish throat with some yellowish",
+        "white throat",
+        "white throat",
+        "white throat"
+      ],
+      "upper chest color and marking": [
+        "white chest",
+        "yellowish-gray chest",
+        "white chest",
+        "white chest",
+        "white chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "yellowish-white belly",
+        "white belly",
+        "white belly",
+        "white belly"
+      ],
+      "upside tail color and marking": [
+        "black tail with white tip",
+        "black tail with white tips",
+        "black tail with white tip",
+        "black tail with white tip",
+        "black tail with white tip"
+      ],
+      "upside wing color and marking": [
+        "white wings with black tips",
+        "black wings with white bars",
+        "black wings with white bars",
+        "white wings with black tips",
+        "gray wings with white bars"
+      ],
+      "feet color": [
+        "yellow feet",
+        "reddish-brown feet",
+        "reddish-brown feet",
+        "orange feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.6707305939733352,
+      "crest shape": 0.47553973065067556,
+      "beak shape": 1.0568407856245834,
+      "neck shape": -0.0,
+      "wing shape": -0.0,
+      "tail shape": 0.9550788744857125,
+      "flight feather shape": -0.0,
+      "feet shape": -0.0,
+      "crown color and marking": 0.46522440734394366,
+      "beak color and marking": 0.49160160905931555,
+      "eye color and marking": 2.220446049250313e-16,
+      "face color and marking": 1.0581961110023403,
+      "throat color and marking": 0.5013298587622603,
+      "upper chest color and marking": 0.5004024235381879,
+      "lower belly color and marking": 1.3321790402101223,
+      "upside tail color and marking": 1.1102230246251564e-16,
+      "upside wing color and marking": 1.0518112064341205,
+      "feet color": 1.3307616894292442
+    }
+  },
+  {
+    "image": "065.Slaty_backed_Gull/Slaty_Backed_Gull_0002_53238.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and compact body",
+        "medium and plump body",
+        "medium and plump body",
+        "medium and slender body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and triangular beak",
+        "short, thick and conical beak",
+        "short, thick and straight beak",
+        "short, thick and straight beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "long neck"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "long and narrow wings"
+      ],
+      "tail shape": [
+        "long and pointed tail",
+        "long and notched tail",
+        "long, pointed and slightly rounded tail",
+        "short and rounded tail",
+        "long and forked tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "long and slender feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "webbed feet"
+      ],
+      "crown color and marking": [
+        "white crown",
+        "gray crown",
+        "white crown",
+        "white crown with black stripe",
+        "white crown"
+      ],
+      "beak color and marking": [
+        "yellow beak",
+        "slightly duskier upper and overall orange beak",
+        "yellow beak",
+        "yellow beak with black tip",
+        "yellow beak with red tip"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with yellow ring and black pupil"
+      ],
+      "face color and marking": [
+        "white face",
+        "black and yellow face",
+        "white face",
+        "white face with yellow near beak",
+        "white face"
+      ],
+      "throat color and marking": [
+        "white throat",
+        "grayish throat with some yellowish",
+        "white throat",
+        "white throat",
+        "white throat"
+      ],
+      "upper chest color and marking": [
+        "white chest",
+        "yellowish-gray chest",
+        "white chest",
+        "white chest",
+        "white chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "yellowish-white belly",
+        "white belly",
+        "white belly",
+        "white belly"
+      ],
+      "upside tail color and marking": [
+        "white tail with black tip",
+        "black tail with white tips",
+        "white tail",
+        "white tail",
+        "black tail with gray tips"
+      ],
+      "upside wing color and marking": [
+        "white wings with gray tips",
+        "black wings with white bars",
+        "white wings",
+        "white and gray wings",
+        "gray wings"
+      ],
+      "feet color": [
+        "pink feet",
+        "reddish-brown feet",
+        "pink feet",
+        "pinkish-gray feet",
+        "pinkish-gray feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 1.0432411747016586,
+      "crest shape": -0.0,
+      "beak shape": 0.9463405924454971,
+      "neck shape": 0.6725343920074685,
+      "wing shape": 0.6721312179136141,
+      "tail shape": 0.9363906505142978,
+      "flight feather shape": -0.0,
+      "feet shape": 0.48915824833696897,
+      "crown color and marking": 0.47043870761059015,
+      "beak color and marking": 1.1102230246251564e-16,
+      "eye color and marking": -0.0,
+      "face color and marking": 0.5088084068367784,
+      "throat color and marking": 0.5004024235381879,
+      "upper chest color and marking": 0.5004024235381879,
+      "lower belly color and marking": 1.3321790402101223,
+      "upside tail color and marking": 0.9535554488872494,
+      "upside wing color and marking": 0.9630240818262004,
+      "feet color": 0.5057665028191209
+    }
+  },
+  {
+    "image": "118.House_Sparrow/House_Sparrow_0030_111387.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and compact body",
+        "small and compact body",
+        "small and slender body",
+        "small and plump body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and triangular beak",
+        "short and conical beak",
+        "short, thick and conical beak",
+        "short and triangular beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "long and slender neck",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "long and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "long and pointed tail",
+        "long and notched tail",
+        "long and notched tail",
+        "long and slender tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "small and slender feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "gray crown",
+        "yellow crown",
+        "yellowish-gray crown",
+        "brown crown",
+        "pale gray and rusty-brown crown"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "slightly duskier upper and overall orange beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "gray and blackish beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring and black pupil",
+        "black eyes with black mask"
+      ],
+      "face color and marking": [
+        "gray face",
+        "black and yellow face",
+        "black and yellow face",
+        "brown face",
+        "rusty-brown face with black mask"
+      ],
+      "throat color and marking": [
+        "gray throat",
+        "grayish throat with some yellowish",
+        "grayish throat with some yellowish",
+        "brown throat",
+        "grayish and black throat"
+      ],
+      "upper chest color and marking": [
+        "gray chest",
+        "yellowish-gray chest",
+        "yellowish-gray chest",
+        "brown chest",
+        "pale gray chest"
+      ],
+      "lower belly color and marking": [
+        "gray belly",
+        "yellowish-white belly",
+        "yellowish-white belly",
+        "brown belly",
+        "pale gray belly"
+      ],
+      "upside tail color and marking": [
+        "gray tail",
+        "black tail with white tips",
+        "black tail with white tips",
+        "brown tail",
+        "gray tail with black subterminal bar and rusty tip"
+      ],
+      "upside wing color and marking": [
+        "gray wings",
+        "black wings with white bars",
+        "black wings with white bars",
+        "brown wings",
+        "gray wings with white bars"
+      ],
+      "feet color": [
+        "gray feet",
+        "reddish-brown feet",
+        "reddish-brown feet",
+        "pinkish-gray feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.506343744346424,
+      "crest shape": -0.0,
+      "beak shape": 1.0607869891671255,
+      "neck shape": 0.6710132483679638,
+      "wing shape": 0.6698939512779446,
+      "tail shape": 0.9451465807381112,
+      "flight feather shape": -0.0,
+      "feet shape": 0.49965009026847274,
+      "crown color and marking": 0.9536134076480102,
+      "beak color and marking": 0.6724306054668923,
+      "eye color and marking": 1.1102230246251564e-16,
+      "face color and marking": 1.0550751892333978,
+      "throat color and marking": 0.5004024235381879,
+      "upper chest color and marking": 0.5004024235381879,
+      "lower belly color and marking": 1.048863961985218,
+      "upside tail color and marking": 1.0549201679861442,
+      "upside wing color and marking": 1.0549201679861442,
+      "feet color": 1.058336039699597
+    }
+  },
+  {
+    "image": "019.Gray_Catbird/Gray_Catbird_0006_20867.jpg",
+    "concepts": {
+      "body shape": [
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and plump body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and triangular beak",
+        "short, thin and conical beak",
+        "short, thick and conical beak",
+        "short, thin and straight beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "long and pointed tail",
+        "long and notched tail",
+        "long and notched tail",
+        "short and rounded tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "small and clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "small feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "gray crown",
+        "gray crown",
+        "yellowish-gray crown",
+        "gray crown",
+        "pale gray crown"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "black beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "black beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring",
+        "black eyes with white ring and black pupil"
+      ],
+      "face color and marking": [
+        "gray face",
+        "gray face",
+        "black and yellow face",
+        "gray face",
+        "gray face"
+      ],
+      "throat color and marking": [
+        "gray throat",
+        "gray throat",
+        "grayish throat with some yellowish",
+        "gray throat",
+        "gray throat"
+      ],
+      "upper chest color and marking": [
+        "gray chest",
+        "gray chest",
+        "yellowish-gray chest",
+        "gray chest",
+        "pale gray chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "gray belly",
+        "yellowish-white belly",
+        "gray belly",
+        "pale gray belly"
+      ],
+      "upside tail color and marking": [
+        "gray tail",
+        "gray tail",
+        "black tail with white tips",
+        "gray tail with white tip",
+        "gray tail with black tip"
+      ],
+      "upside wing color and marking": [
+        "gray wings",
+        "gray wings",
+        "black wings with white bars",
+        "gray wings",
+        "gray wings with white bars"
+      ],
+      "feet color": [
+        "gray feet",
+        "gray feet",
+        "reddish-brown feet",
+        "black feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.5045224334453147,
+      "crest shape": -0.0,
+      "beak shape": 1.3291662604592662,
+      "neck shape": -0.0,
+      "wing shape": -0.0,
+      "tail shape": 0.9607967860857879,
+      "flight feather shape": -0.0,
+      "feet shape": -2.220446049250313e-16,
+      "crown color and marking": -0.0,
+      "beak color and marking": 0.5054681396417756,
+      "eye color and marking": 1.1102230246251564e-16,
+      "face color and marking": 0.511379036540714,
+      "throat color and marking": -0.0,
+      "upper chest color and marking": -0.0,
+      "lower belly color and marking": 0.6749223252293536,
+      "upside tail color and marking": 0.5117457522863365,
+      "upside wing color and marking": 0.5023967656005935,
+      "feet color": 1.0589778631347642
+    }
+  },
+  {
+    "image": "106.Horned_Puffin/Horned_Puffin_0066_100877.jpg",
+    "concepts": {
+      "body shape": [
+        "small and plump body",
+        "small and compact body",
+        "small and plump body",
+        "small and plump body",
+        "small and plump body"
+      ],
+      "crest shape": [
+        "white and orange crest",
+        "white and yellow crest",
+        "no crest",
+        "large and white crest",
+        "long and white crest"
+      ],
+      "beak shape": [
+        "short and thick beak",
+        "short, thick and conical beak",
+        "short, thick and conical beak",
+        "short, thick and straight beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "short and rounded tail",
+        "long and forked tail",
+        "long and notched tail",
+        "short and rounded tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "white crown with orange and white stripes",
+        "white crown",
+        "black crown",
+        "white crown with black stripe",
+        "white crown"
+      ],
+      "beak color and marking": [
+        "orange beak",
+        "orange beak",
+        "orange beak",
+        "orange beak with black tip",
+        "yellow beak with black tip"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring and black pupil",
+        "black eyes with white ring and black pupil"
+      ],
+      "face color and marking": [
+        "white face with black stripe",
+        "black and white face",
+        "black and white face",
+        "white face",
+        "white face"
+      ],
+      "throat color and marking": [
+        "white throat",
+        "white throat",
+        "white throat",
+        "white throat",
+        "white throat"
+      ],
+      "upper chest color and marking": [
+        "white chest",
+        "white chest",
+        "black chest",
+        "white chest",
+        "white chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "white belly",
+        "white belly",
+        "white belly",
+        "white belly"
+      ],
+      "upside tail color and marking": [
+        "black tail with white tip",
+        "black tail with white tips",
+        "black tail with white tip",
+        "black tail with white tip",
+        "black tail with white tip"
+      ],
+      "upside wing color and marking": [
+        "black wings with white tips",
+        "black wings with white bars",
+        "black wings with white bars",
+        "black wings with white tips",
+        "black wings with white tips"
+      ],
+      "feet color": [
+        "orange feet",
+        "reddish-brown feet",
+        "yellow feet",
+        "orange feet",
+        "yellow feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.5140141978408013,
+      "crest shape": 1.0534908431511376,
+      "beak shape": 0.5091065915282436,
+      "neck shape": -0.0,
+      "wing shape": -0.0,
+      "tail shape": 1.0566229036871344,
+      "flight feather shape": -0.0,
+      "feet shape": -2.220446049250313e-16,
+      "crown color and marking": 0.9440214100220399,
+      "beak color and marking": 0.47950939113210156,
+      "eye color and marking": 2.220446049250313e-16,
+      "face color and marking": -2.220446049250313e-16,
+      "throat color and marking": 2.220446049250313e-16,
+      "upper chest color and marking": 0.5030057443629574,
+      "lower belly color and marking": 1.6094379124341005,
+      "upside tail color and marking": -0.0,
+      "upside wing color and marking": -0.0,
+      "feet color": 1.0578125937261513
+    }
+  },
+  {
+    "image": "200.Common_Yellowthroat/Common_Yellowthroat_0035_190567.jpg",
+    "concepts": {
+      "body shape": [
+        "small and plump body",
+        "small and compact body",
+        "small and compact body",
+        "small and plump body",
+        "small and plump body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "black and white striped crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and straight beak",
+        "short and conical beak",
+        "short, thick and conical beak",
+        "short, thin and black beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "long, pointed and slightly rounded tail",
+        "long and forked tail",
+        "long and notched tail",
+        "long, pointed and slightly rounded tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "yellow crown",
+        "yellow crown",
+        "yellowish-gray crown",
+        "black and white crown with yellow stripe",
+        "yellow crown with black mask"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "black beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "black beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with yellow ring and black pupil",
+        "black eyes with white ring and black pupil"
+      ],
+      "face color and marking": [
+        "black face with white stripe",
+        "black face",
+        "black and yellow face",
+        "black face with white stripe",
+        "black face with white stripe"
+      ],
+      "throat color and marking": [
+        "yellow throat",
+        "yellow throat",
+        "grayish throat with some yellowish",
+        "yellow throat",
+        "yellow throat"
+      ],
+      "upper chest color and marking": [
+        "yellow chest",
+        "yellow chest",
+        "yellowish-gray chest",
+        "yellow chest",
+        "yellow chest"
+      ],
+      "lower belly color and marking": [
+        "yellow belly",
+        "yellow belly",
+        "yellowish-white belly",
+        "yellow belly",
+        "yellow belly"
+      ],
+      "upside tail color and marking": [
+        "yellow tail with black tip",
+        "yellow tail",
+        "black tail with white tips",
+        "yellow tail with black tip",
+        "yellow tail with black tip"
+      ],
+      "upside wing color and marking": [
+        "yellow wings",
+        "yellow wings",
+        "black wings with white bars",
+        "yellow wings with black tips",
+        "yellow wings with black tips"
+      ],
+      "feet color": [
+        "pinkish-red feet",
+        "reddish-brown feet",
+        "reddish-brown feet",
+        "pink feet",
+        "pinkish feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.6741334056367021,
+      "crest shape": 0.45827875772120996,
+      "beak shape": 1.0441719670684166,
+      "neck shape": -0.0,
+      "wing shape": -0.0,
+      "tail shape": 0.9580028472863282,
+      "flight feather shape": -0.0,
+      "feet shape": -0.0,
+      "crown color and marking": 0.475824945270816,
+      "beak color and marking": 0.5004024235381879,
+      "eye color and marking": -0.0,
+      "face color and marking": 0.5073928029064981,
+      "throat color and marking": 0.5020779286062723,
+      "upper chest color and marking": -0.0,
+      "lower belly color and marking": -0.0,
+      "upside tail color and marking": 0.500744089733534,
+      "upside wing color and marking": 0.5014765430501644,
+      "feet color": 2.220446049250313e-16
+    }
+  },
+  {
+    "image": "188.Pileated_Woodpecker/Pileated_Woodpecker_0004_180307.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and compact body",
+        "large and robust body",
+        "small and slender body",
+        "large and robust body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "long and pointed crest",
+        "no crest",
+        "long and pointed crest"
+      ],
+      "beak shape": [
+        "long and flat beak",
+        "long and flat beak",
+        "long and slightly curved beak",
+        "long and flat beak",
+        "long and straight beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "short neck blending into the body",
+        "long neck blending into the body",
+        "long and slender neck",
+        "long neck blending into the body"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "long and narrow wings",
+        "long and broad wings",
+        "long and narrow wings",
+        "long and broad wings"
+      ],
+      "tail shape": [
+        "long and pointed tail",
+        "long and forked tail",
+        "long and forked tail",
+        "long and pointed tail",
+        "long and forked tail"
+      ],
+      "flight feather shape": [
+        "long and pointed flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "coarse and overlapping flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "long and slender feet",
+        "clawed feet",
+        "clawed feet",
+        "long and slender feet",
+        "long and strong feet"
+      ],
+      "crown color and marking": [
+        "black crown",
+        "black crown",
+        "black crown with white stripe",
+        "black crown",
+        "black crown with white stripe"
+      ],
+      "beak color and marking": [
+        "orange beak",
+        "orange beak",
+        "orange beak",
+        "orange beak",
+        "black beak with orange tip"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring",
+        "black eyes with white ring"
+      ],
+      "face color and marking": [
+        "black face",
+        "black face",
+        "black and white face",
+        "black face with white stripe",
+        "black face with white stripe"
+      ],
+      "throat color and marking": [
+        "black throat",
+        "white throat",
+        "white throat",
+        "black throat",
+        "black throat with white stripe"
+      ],
+      "upper chest color and marking": [
+        "black upper chest",
+        "white chest",
+        "black upper chest",
+        "black chest",
+        "black upper chest with white stripe"
+      ],
+      "lower belly color and marking": [
+        "black belly",
+        "white belly",
+        "white belly",
+        "white belly",
+        "black belly with white stripe"
+      ],
+      "upside tail color and marking": [
+        "black tail with white tip",
+        "black tail with white tip",
+        "black tail with white tip",
+        "black tail with white tip",
+        "black tail with white tip"
+      ],
+      "upside wing color and marking": [
+        "black wings with white tips",
+        "black wings with white bars",
+        "black wings with white bars",
+        "black wings with white stripe",
+        "black wings with white stripe"
+      ],
+      "feet color": [
+        "orange feet",
+        "orange feet",
+        "orange feet",
+        "orange feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.6801706910495182,
+      "crest shape": 0.6789732595294822,
+      "beak shape": 0.5040036508110762,
+      "neck shape": 0.5024633984871975,
+      "wing shape": 0.6758549951061965,
+      "tail shape": 0.6695383464889495,
+      "flight feather shape": 0.929459635758847,
+      "feet shape": 1.0412653991540708,
+      "crown color and marking": 1.1102230246251564e-16,
+      "beak color and marking": 0.47971030157356725,
+      "eye color and marking": -0.0,
+      "face color and marking": -0.0,
+      "throat color and marking": 0.6713890310058348,
+      "upper chest color and marking": 0.5157733215096671,
+      "lower belly color and marking": 1.3375048327310841,
+      "upside tail color and marking": -0.0,
+      "upside wing color and marking": -0.0,
+      "feet color": 0.498731086989997
+    }
+  },
+  {
+    "image": "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0068_183662.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and compact body",
+        "small and stout body",
+        "small and slender body",
+        "small and stout body"
+      ],
+      "crest shape": [
+        "red and black crest",
+        "red crest",
+        "red crest",
+        "red crest",
+        "red crest"
+      ],
+      "beak shape": [
+        "long and straight beak",
+        "short, thick and conical beak",
+        "long and flat beak",
+        "long, thin and straight beak",
+        "short and stout beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "long and slender neck",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "long and narrow wings",
+        "short and broad wings"
+      ],
+      "tail shape": [
+        "long and pointed tail",
+        "long and forked tail",
+        "long and flat tail",
+        "long, pointed and slightly rounded tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "long and slender feet",
+        "clawed feet",
+        "clawed feet",
+        "long and slender feet",
+        "short and stout feet"
+      ],
+      "crown color and marking": [
+        "red crown with black stripe",
+        "red crown",
+        "red crown",
+        "red crown",
+        "red crown"
+      ],
+      "beak color and marking": [
+        "gray beak with black tip",
+        "black beak",
+        "black beak",
+        "black beak",
+        "black beak with white tip"
+      ],
+      "eye color and marking": [
+        "black eyes with white ring",
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring"
+      ],
+      "face color and marking": [
+        "black face with white stripe",
+        "black and white face",
+        "black face",
+        "black face with white stripe",
+        "black face with white stripe"
+      ],
+      "throat color and marking": [
+        "black throat with white stripe",
+        "black throat",
+        "black throat",
+        "black throat",
+        "black throat"
+      ],
+      "upper chest color and marking": [
+        "black chest",
+        "black chest",
+        "black chest",
+        "black upper chest",
+        "black upper chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "white belly",
+        "white belly",
+        "black belly",
+        "black belly"
+      ],
+      "upside tail color and marking": [
+        "black tail with white tip",
+        "black tail",
+        "black tail",
+        "black tail",
+        "black tail with white tip"
+      ],
+      "upside wing color and marking": [
+        "black wings with white tip",
+        "black wings",
+        "black wings",
+        "black wings",
+        "black wings with white tips"
+      ],
+      "feet color": [
+        "gray feet",
+        "reddish-brown feet",
+        "gray feet",
+        "black feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.663921737329151,
+      "crest shape": 2.220446049250313e-16,
+      "beak shape": 0.6740422128198709,
+      "neck shape": 0.6730116670092563,
+      "wing shape": 1.0542186310187935,
+      "tail shape": 1.3346840747113293,
+      "flight feather shape": -0.0,
+      "feet shape": 1.049698622206972,
+      "crown color and marking": -0.0,
+      "beak color and marking": 0.4853246392774295,
+      "eye color and marking": -0.0,
+      "face color and marking": 1.1102230246251564e-16,
+      "throat color and marking": 1.1102230246251564e-16,
+      "upper chest color and marking": -2.220446049250313e-16,
+      "lower belly color and marking": 1.339984598938358,
+      "upside tail color and marking": -0.0,
+      "upside wing color and marking": 2.220446049250313e-16,
+      "feet color": 1.0439405326915012
+    }
+  },
+  {
+    "image": "030.Fish_Crow/Fish_Crow_0083_25949.jpg",
+    "concepts": {
+      "body shape": [
+        "medium and slender body",
+        "small and compact body",
+        "small and compact body",
+        "small and slender body",
+        "large and robust body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and triangular beak",
+        "short, thick and conical beak",
+        "short, thick and conical beak",
+        "short, thin and straight beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "long and slender neck",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "long and narrow wings",
+        "long and broad wings"
+      ],
+      "tail shape": [
+        "long and pointed tail",
+        "long and notched tail",
+        "long and notched tail",
+        "long and pointed tail",
+        "long and forked tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "webbed feet"
+      ],
+      "crown color and marking": [
+        "black crown",
+        "black crown",
+        "black crown",
+        "black crown",
+        "black crown"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "black beak",
+        "black beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring"
+      ],
+      "face color and marking": [
+        "black face",
+        "black and yellow face",
+        "black face",
+        "black face",
+        "black face"
+      ],
+      "throat color and marking": [
+        "black throat",
+        "grayish throat with some yellowish",
+        "black throat",
+        "black throat",
+        "black throat"
+      ],
+      "upper chest color and marking": [
+        "black chest",
+        "yellowish-gray chest",
+        "black chest",
+        "black chest",
+        "black chest"
+      ],
+      "lower belly color and marking": [
+        "black belly",
+        "yellowish-white belly",
+        "black belly",
+        "black belly",
+        "black belly"
+      ],
+      "upside tail color and marking": [
+        "black tail",
+        "black tail with white tips",
+        "black tail",
+        "black tail",
+        "black tail with white tip"
+      ],
+      "upside wing color and marking": [
+        "black wings",
+        "black wings with white bars",
+        "black wings",
+        "black wings",
+        "black wings with white tips"
+      ],
+      "feet color": [
+        "black feet",
+        "reddish-brown feet",
+        "black feet",
+        "black feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.941127958437731,
+      "crest shape": -0.0,
+      "beak shape": 1.0455008818180525,
+      "neck shape": 0.5064977967975077,
+      "wing shape": 1.0564102032072644,
+      "tail shape": 0.5062486348025155,
+      "flight feather shape": -0.0,
+      "feet shape": -0.0,
+      "crown color and marking": -0.0,
+      "beak color and marking": 0.506096310960408,
+      "eye color and marking": -0.0,
+      "face color and marking": -0.0,
+      "throat color and marking": 0.5004024235381879,
+      "upper chest color and marking": 0.5041717833083721,
+      "lower belly color and marking": 0.5004024235381879,
+      "upside tail color and marking": -0.0,
+      "upside wing color and marking": 1.1102230246251564e-16,
+      "feet color": 0.5004024235381879
+    }
+  },
+  {
+    "image": "027.Shiny_Cowbird/Shiny_Cowbird_0017_796853.jpg",
+    "concepts": {
+      "body shape": [
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and slender body",
+        "small and compact body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and triangular beak",
+        "short, thick and conical beak",
+        "short, thick and conical beak",
+        "short, thin and straight beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "long and slender neck",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "short and rounded tail",
+        "long and notched tail",
+        "long and notched tail",
+        "long and slender tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "short and stubby feet",
+        "clawed feet",
+        "clawed feet",
+        "short and slender feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "black crown",
+        "black crown",
+        "black crown",
+        "black crown",
+        "black crown"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "slightly duskier upper and overall orange beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "black beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes"
+      ],
+      "face color and marking": [
+        "black face",
+        "black and yellow face",
+        "black and yellow face",
+        "black face",
+        "black face"
+      ],
+      "throat color and marking": [
+        "black throat",
+        "grayish throat with some yellowish",
+        "grayish throat with some yellowish",
+        "black throat",
+        "black throat"
+      ],
+      "upper chest color and marking": [
+        "black chest",
+        "yellowish-gray chest",
+        "yellowish-gray chest",
+        "black upper chest",
+        "black chest"
+      ],
+      "lower belly color and marking": [
+        "black belly",
+        "yellowish-white belly",
+        "yellowish-white belly",
+        "black belly",
+        "black belly"
+      ],
+      "upside tail color and marking": [
+        "black tail",
+        "black tail with white tips",
+        "black tail with white tips",
+        "black tail",
+        "black tail"
+      ],
+      "upside wing color and marking": [
+        "black wings",
+        "black wings with white bars",
+        "black wings with white bars",
+        "black wings",
+        "black wings"
+      ],
+      "feet color": [
+        "black feet",
+        "reddish-brown feet",
+        "reddish-brown feet",
+        "black feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 2.220446049250313e-16,
+      "crest shape": -0.0,
+      "beak shape": 1.0590022354963897,
+      "neck shape": 0.5004024235381879,
+      "wing shape": 1.1102230246251564e-16,
+      "tail shape": 1.3228461908502833,
+      "flight feather shape": -0.0,
+      "feet shape": 0.9254535830412167,
+      "crown color and marking": -0.0,
+      "beak color and marking": 0.6705300873783433,
+      "eye color and marking": -0.0,
+      "face color and marking": -0.0,
+      "throat color and marking": 0.6730116670092563,
+      "upper chest color and marking": 0.6743743038671431,
+      "lower belly color and marking": 0.6730116670092563,
+      "upside tail color and marking": -0.0,
+      "upside wing color and marking": -0.0,
+      "feet color": 0.6730116670092563
+    }
+  },
+  {
+    "image": "058.Pigeon_Guillemot/Pigeon_Guillemot_0072_39905.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and compact body",
+        "small and compact body",
+        "small and slender body",
+        "medium and slender body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short and triangular beak",
+        "short, thick and conical beak",
+        "short, thick and conical beak",
+        "short, thin and straight beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "long neck",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "long and slender neck",
+        "long neck blending into the body"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "long and narrow wings"
+      ],
+      "tail shape": [
+        "long and forked tail",
+        "long and notched tail",
+        "long and notched tail",
+        "long and pointed tail",
+        "long and forked tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "webbed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "webbed feet"
+      ],
+      "crown color and marking": [
+        "black crown with white stripe",
+        "yellow crown",
+        "yellowish-gray crown",
+        "black crown",
+        "black crown"
+      ],
+      "beak color and marking": [
+        "black beak with red tip",
+        "slightly duskier upper and overall orange beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "black beak"
+      ],
+      "eye color and marking": [
+        "black eyes with white ring and black pupil",
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring and black pupil"
+      ],
+      "face color and marking": [
+        "black face with white stripe",
+        "black and yellow face",
+        "black and yellow face",
+        "black face",
+        "black face"
+      ],
+      "throat color and marking": [
+        "black throat with white stripe",
+        "grayish throat with some yellowish",
+        "grayish throat with some yellowish",
+        "black throat",
+        "black throat"
+      ],
+      "upper chest color and marking": [
+        "black chest",
+        "yellowish-gray chest",
+        "yellowish-gray chest",
+        "black upper chest",
+        "black chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "yellowish-white belly",
+        "yellowish-white belly",
+        "white belly",
+        "black belly"
+      ],
+      "upside tail color and marking": [
+        "black tail with white tip",
+        "black tail with white tips",
+        "black tail with white tips",
+        "black tail with white tip",
+        "black tail with white tip"
+      ],
+      "upside wing color and marking": [
+        "black wings with white tips",
+        "black wings with white bars",
+        "black wings with white bars",
+        "white wings with black tips",
+        "black wings with white tips"
+      ],
+      "feet color": [
+        "orange-red feet",
+        "reddish-brown feet",
+        "reddish-brown feet",
+        "orange feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.46951474407844473,
+      "crest shape": 1.1102230246251564e-16,
+      "beak shape": 1.0579617297274284,
+      "neck shape": 0.6746755319035532,
+      "wing shape": 0.6763488021249078,
+      "tail shape": 0.4809743890226891,
+      "flight feather shape": 1.1102230246251564e-16,
+      "feet shape": -0.0,
+      "crown color and marking": 0.66963764983368,
+      "beak color and marking": 0.6760605623286666,
+      "eye color and marking": -2.220446049250313e-16,
+      "face color and marking": 0.6736899510411969,
+      "throat color and marking": 0.6751794310245375,
+      "upper chest color and marking": 0.676449122236608,
+      "lower belly color and marking": 0.9312094167967069,
+      "upside tail color and marking": -2.220446049250313e-16,
+      "upside wing color and marking": 0.4877222720313068,
+      "feet color": 0.5099700778168987
+    }
+  },
+  {
+    "image": "127.Savannah_Sparrow/Savannah_Sparrow_0029_119621.jpg",
+    "concepts": {
+      "body shape": [
+        "small and compact body",
+        "small and compact body",
+        "small and compact body",
+        "small and plump body",
+        "small and plump body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "yellow and tufted crest"
+      ],
+      "beak shape": [
+        "short and triangular beak",
+        "short and conical beak",
+        "short, thick and conical beak",
+        "short, thin and triangular beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body"
+      ],
+      "wing shape": [
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "short and rounded tail",
+        "long and notched tail",
+        "long and notched tail",
+        "short and rounded tail",
+        "short and squared tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "short and clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "yellow crown with black stripe",
+        "yellow crown",
+        "yellowish-gray crown",
+        "yellow crown with black stripe",
+        "yellow crown with black stripe"
+      ],
+      "beak color and marking": [
+        "black beak",
+        "orange beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "black beak with yellow base"
+      ],
+      "eye color and marking": [
+        "black eyes with yellow ring",
+        "black eyes",
+        "black eyes",
+        "black eyes with yellow ring and black pupil",
+        "black eyes with yellow ring and black pupil"
+      ],
+      "face color and marking": [
+        "yellow face",
+        "black and yellow face",
+        "black and yellow face",
+        "yellow face",
+        "yellow face with black stripe"
+      ],
+      "throat color and marking": [
+        "yellow throat",
+        "grayish throat with some yellowish",
+        "grayish throat with some yellowish",
+        "yellow throat",
+        "yellow throat"
+      ],
+      "upper chest color and marking": [
+        "yellow chest",
+        "yellowish-gray chest",
+        "yellowish-gray chest",
+        "white chest",
+        "yellow chest"
+      ],
+      "lower belly color and marking": [
+        "white belly",
+        "yellowish-white belly",
+        "yellowish-white belly",
+        "white belly",
+        "yellow belly"
+      ],
+      "upside tail color and marking": [
+        "yellow tail with black tip",
+        "black tail with white tips",
+        "black tail with white tips",
+        "yellow tail with black tip",
+        "yellow tail with black tip"
+      ],
+      "upside wing color and marking": [
+        "yellow wings with black tips",
+        "black wings with white bars",
+        "black wings with white bars",
+        "white and brown wings",
+        "yellow wings with black tips"
+      ],
+      "feet color": [
+        "pinkish-gray feet",
+        "reddish-brown feet",
+        "reddish-brown feet",
+        "orange feet",
+        "yellow feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": 0.6766684973893538,
+      "crest shape": 0.5078165043210504,
+      "beak shape": 1.058996652272254,
+      "neck shape": -0.0,
+      "wing shape": -0.0,
+      "tail shape": 1.0555568206202195,
+      "flight feather shape": -0.0,
+      "feet shape": 1.1102230246251564e-16,
+      "crown color and marking": 0.5053891272744169,
+      "beak color and marking": 0.6737714061926579,
+      "eye color and marking": -0.0,
+      "face color and marking": -0.0,
+      "throat color and marking": 0.672082060222696,
+      "upper chest color and marking": 0.48126664597662133,
+      "lower belly color and marking": 0.9492366920622054,
+      "upside tail color and marking": 0.6738597622856014,
+      "upside wing color and marking": 1.041141658399855,
+      "feet color": 1.3216542517292083
+    }
+  },
+  {
+    "image": "001.Black_footed_Albatross/Black_Footed_Albatross_0056_796078.jpg",
+    "concepts": {
+      "body shape": [
+        "small and slender body",
+        "small and compact body",
+        "small and compact body",
+        "small and slender body",
+        "small and slender body"
+      ],
+      "crest shape": [
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest",
+        "no crest"
+      ],
+      "beak shape": [
+        "short, thin and straight beak",
+        "short, thick and conical beak",
+        "short, thick and conical beak",
+        "short and thin beak",
+        "short and straight beak"
+      ],
+      "neck shape": [
+        "long neck blending into the body",
+        "short neck blending into the body",
+        "short neck blending into the body",
+        "long and slender neck",
+        "long neck blending into the body"
+      ],
+      "wing shape": [
+        "long and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings",
+        "short and narrow wings"
+      ],
+      "tail shape": [
+        "long and pointed tail",
+        "long and notched tail",
+        "long and notched tail",
+        "short and rounded tail",
+        "long and slender tail"
+      ],
+      "flight feather shape": [
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers",
+        "fine and smooth flight feathers"
+      ],
+      "feet shape": [
+        "long and slender feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet",
+        "clawed feet"
+      ],
+      "crown color and marking": [
+        "brown crown",
+        "yellowish-gray crown",
+        "yellowish-gray crown",
+        "brown crown",
+        "pale gray crown"
+      ],
+      "beak color and marking": [
+        "pale brownish-gray beak",
+        "slightly duskier upper and overall orange beak",
+        "slightly duskier upper and overall orange beak",
+        "black beak",
+        "pale gray beak"
+      ],
+      "eye color and marking": [
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes",
+        "black eyes with white ring and black pupil"
+      ],
+      "face color and marking": [
+        "pale brown face",
+        "black and yellow face",
+        "black and yellow face",
+        "brown face",
+        "pale gray face"
+      ],
+      "throat color and marking": [
+        "pale brown throat",
+        "grayish throat with some yellowish",
+        "grayish throat with some yellowish",
+        "brown throat",
+        "pale gray throat"
+      ],
+      "upper chest color and marking": [
+        "pale brown chest",
+        "yellowish-gray chest",
+        "yellowish-gray chest",
+        "brown chest",
+        "pale gray chest"
+      ],
+      "lower belly color and marking": [
+        "pale brown belly",
+        "yellowish-white belly",
+        "yellowish-white belly",
+        "brown belly",
+        "pale gray belly"
+      ],
+      "upside tail color and marking": [
+        "brownish tail",
+        "black tail with white tips",
+        "black tail with white tips",
+        "brown tail",
+        "pale gray tail"
+      ],
+      "upside wing color and marking": [
+        "brownish wings",
+        "black wings with white bars",
+        "black wings with white bars",
+        "brown wings",
+        "pale gray wings"
+      ],
+      "feet color": [
+        "pale brown feet",
+        "reddish-brown feet",
+        "reddish-brown feet",
+        "gray feet",
+        "black feet"
+      ]
+    },
+    "se_scores": {
+      "body shape": -0.0,
+      "crest shape": -0.0,
+      "beak shape": 0.6815104519018471,
+      "neck shape": 0.6774774022549404,
+      "wing shape": 0.5076413288310377,
+      "tail shape": 0.9220519795431479,
+      "flight feather shape": -0.0,
+      "feet shape": 0.4988581378648135,
+      "crown color and marking": 0.6733584933051502,
+      "beak color and marking": 1.053366382007582,
+      "eye color and marking": -0.0,
+      "face color and marking": 1.0556097067360746,
+      "throat color and marking": 0.5008657143121231,
+      "upper chest color and marking": 0.5004024235381879,
+      "lower belly color and marking": 0.6718323749052317,
+      "upside tail color and marking": 1.0473655839284008,
+      "upside wing color and marking": 1.0549201679861442,
+      "feet color": 1.3241386245055808
+    }
+  }
+]
