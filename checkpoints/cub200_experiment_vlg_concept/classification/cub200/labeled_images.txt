@@ -98,6 +98,7 @@
 006.Least_Auklet/Least_Auklet_0014_1901.jpg
 008.Rhinoceros_Auklet/Rhinoceros_Auklet_0048_2162.jpg
 023.Brandt_Cormorant/Brandt_Cormorant_0033_22975.jpg
+101.White_Pelican/White_Pelican_0076_96427.jpg
 102.Western_Wood_Pewee/Western_Wood_Pewee_0062_98123.jpg
 103.Sayornis/Sayornis_0094_98512.jpg
 104.American_Pipit/American_Pipit_0066_99961.jpg
@@ -141,7 +142,6 @@
 142.Black_Tern/Black_Tern_0098_144089.jpg
 143.Caspian_Tern/Caspian_Tern_0108_145278.jpg
 144.Common_Tern/Common_Tern_0044_148680.jpg
-101.White_Pelican/White_Pelican_0076_96427.jpg
 145.Elegant_Tern/Elegant_Tern_0107_150960.jpg
 146.Forsters_Tern/Forsters_Tern_0064_152047.jpg
 147.Least_Tern/Least_Tern_0131_153983.jpg
