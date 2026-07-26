@@ -103,3 +103,10 @@
 106.Horned_Puffin/Horned_Puffin_0048_100916.jpg
 107.Common_Raven/Common_Raven_0025_102584.jpg
 108.White_necked_Raven/White_Necked_Raven_0008_797389.jpg
+109.American_Redstart/American_Redstart_0122_103102.jpg
+110.Geococcyx/Geococcyx_0059_104258.jpg
+111.Loggerhead_Shrike/Loggerhead_Shrike_0068_105400.jpg
+112.Great_Grey_Shrike/Great_Grey_Shrike_0075_797022.jpg
+113.Baird_Sparrow/Baird_Sparrow_0013_794587.jpg
+114.Black_throated_Sparrow/Black_Throated_Sparrow_0040_107172.jpg
+115.Brewer_Sparrow/Brewer_Sparrow_0037_107442.jpg
